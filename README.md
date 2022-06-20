@@ -25,7 +25,7 @@ const iAm = {
     'colaborativo',
     'pontual', 
     'assertivo',
-    'colaborativo'
+   
   ],
   listOfProgrammingLanguages: [
     'html', 
