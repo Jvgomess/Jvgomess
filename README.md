@@ -1,4 +1,4 @@
-### Oie devs 👋
+### HeY DeVerS👋
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13832C&background=27272700&multiline=true&height=110&lines=Olhar+digital+n%C3%A3o+%C3%A9+saber+os+c%C3%B3digos;ou+linhas+de+comando%2C;%C3%A9+saber+o+que+fazer+com+eles+para+;chegar+em+algum+lugar!)](https://git.io/typing-svg)
